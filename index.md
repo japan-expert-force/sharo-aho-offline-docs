@@ -17,16 +17,12 @@ graph TD;
     C-->D;
 ```
 
-{: .highlight }
-A paragraph
+{: .d-inline-block }
 
-{: .note }
-A paragraph
+New (v0.4.0)
+{: .label .label-green }
 
-{: .note-title }
-> My note title
->
-> A paragraph with a custom title callout
+{: .no_toc }
 
 {: .important }
 > A paragraph
@@ -34,31 +30,6 @@ A paragraph
 > Another paragraph
 >
 > The last paragraph
-
-{: .important-title }
-> My important title
->
-> A paragraph
->
-> Another paragraph
->
-> The last paragraph
-
-> {: .highlight }
-  A paragraph
-
-{: .important }
-> {: .warning }
-> A paragraph
-
-{: .important }
-> {: .opaque }
-> <div markdown="block">
-> {: .warning }
-> A paragraph
-> </div>
-
-[Link button](http://example.com/){: .btn }
 
 ```javascript
 const a = 10;
