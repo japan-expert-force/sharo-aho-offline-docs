@@ -17,7 +17,7 @@ graph TD;
     C-->D;
 ```
 
-{: .important }
+{: .danger }
 > A paragraph
 >
 > Another paragraph
