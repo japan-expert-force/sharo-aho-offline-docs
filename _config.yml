@@ -23,6 +23,9 @@ callouts_level: quiet
 callouts:
   highlight:
     color: yellow
+  info:
+    title: Info
+    color: blue
   important:
     title: Important
     color: blue
@@ -34,4 +37,7 @@ callouts:
     color: purple
   warning:
     title: Warning
+    color: red
+  danger:
+    title: Danger
     color: red
