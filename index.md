@@ -4,6 +4,6 @@ title: Sharo Aho Offline について
 nav_order: 1
 ---
 
-{: .no_toc }
+{:toc}
 
 # Sharo Aho Offline について
