@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.remote_theme }}";
 
 $purple-000: #7253ed !default;
 $link-color: $purple-000 !default;
