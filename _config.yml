@@ -1,5 +1,6 @@
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 title: Sharo Aho Offline
+description: Sharo Aho Offline Specification Document
 mermaid:
   version: 9.1.3
 aux_links:
