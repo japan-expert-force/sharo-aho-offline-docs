@@ -7,6 +7,8 @@ aux_links:
   'Sharo Aho Offline on GitHub':
     - https://github.com/japan-expert-force/sharo-aho-offline
 aux_links_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top"
 gh_edit_link: true
 gh_edit_link_text: Edit this page on GitHub.
 gh_edit_repository: https://github.com/japan-expert-force/sharo-aho-offline
@@ -17,3 +19,19 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
+callouts_level: quiet
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
