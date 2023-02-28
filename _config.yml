@@ -11,3 +11,8 @@ gh_edit_link_text: Edit this page on GitHub.
 gh_edit_repository: https://github.com/japan-expert-force/sharo-aho-offline
 gh_edit_branch: master
 gh_edit_view_mode: tree
+enable_copy_code_button: true
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
