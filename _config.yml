@@ -1,9 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
-sass:
-  load_paths:
-    - node_modules/
-nav_external_links:
-  - title: Sharo Aho Offline
-    url: https://github.com/japan-expert-force/sharo-aho-offline
-    hide_icon: false
 favicon_ico: /assets/images/jef-dev.png
+mermaid:
+  version: 9.1.3
+aux_links:
+  'Sharo Aho Offline on GitHub':
+    - https://github.com/japan-expert-force/sharo-aho-offline
+aux_links_new_tab: true
+gh_edit_link: true
+gh_edit_link_text: Edit this page on GitHub.
+gh_edit_repository: https://github.com/japan-expert-force/sharo-aho-offline
+gh_edit_branch: master
+gh_edit_view_mode: tree
