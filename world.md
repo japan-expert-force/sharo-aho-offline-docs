@@ -6,4 +6,7 @@ nav_order: 3
 
 # ワールドについて
 
+WIP
+{: .label .label-yellow }
+
 ## ディメンション

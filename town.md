@@ -5,3 +5,6 @@ nav_order: 4
 ---
 
 # 町の仕様
+
+WIP
+{: .label .label-yellow }
