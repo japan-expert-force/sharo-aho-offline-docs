@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Sharo Aho Offline について
 nav_order: 1
 ---
@@ -23,10 +23,3 @@ graph TD;
 > Another paragraph
 >
 > The last paragraph
-
-```js
-const a = 10;
-function foo() {
-    alert('hoge');
-}
-```
