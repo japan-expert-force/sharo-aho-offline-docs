@@ -2,3 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 sass:
   load_paths:
     - node_modules/
+nav_external_links:
+  - title: Sharo Aho Offline
+    url: https://github.com/japan-expert-force/sharo-aho-offline
+    hide_icon: false
