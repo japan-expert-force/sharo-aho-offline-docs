@@ -17,13 +17,6 @@ graph TD;
     C-->D;
 ```
 
-{: .d-inline-block }
-
-New (v0.4.0)
-{: .label .label-green }
-
-{: .no_toc }
-
 {: .important }
 > A paragraph
 >
@@ -31,7 +24,7 @@ New (v0.4.0)
 >
 > The last paragraph
 
-```javascript
+```js
 const a = 10;
 function foo() {
     alert('hoge');
