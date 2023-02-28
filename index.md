@@ -23,3 +23,8 @@ graph TD;
 > Another paragraph
 >
 > The last paragraph
+
+```javascript
+const msg = 'Hello, world!';
+console.log(msg);
+```
