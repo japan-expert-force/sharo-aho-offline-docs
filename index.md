@@ -28,3 +28,5 @@ graph TD;
 const msg = 'Hello, world!';
 console.log(msg);
 ```
+
+<script src="https://gist.github.com/sharo-jef/cb6730402d3ff42b5fe8208fdfbfdd4a.js"></script>
