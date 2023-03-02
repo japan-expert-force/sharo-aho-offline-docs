@@ -1,6 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 title: Sharo Aho Offline
 description: Sharo Aho Offline Specification Document
+color_scheme: dark
 mermaid:
   version: 9.1.3
 aux_links:
